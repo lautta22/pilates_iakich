@@ -25,7 +25,7 @@ footer {
   display: flex;
   grid-area: footer;
   justify-content: center; }
-  footer:hover {
+footer:hover {
     transform: rotatex(15deg); }
 
 .footer__img {
@@ -33,7 +33,7 @@ footer {
   height: 200px; }
 
 .nav__img {
-  width: 300px; }
+  width: 200px; }
 
 .main__img {
   width: 800px;
