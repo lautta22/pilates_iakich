@@ -1,0 +1,5 @@
+Objetivo: Una pagina simple pero funcional, ya que pilates es una disciplina muy variada en edad y debe ser sencilla para cualquier clase de persona
+Desarrollo: Visual studio code, html, css y frameworks como bootstrap
+Fases del desarrollo: 1	fase wireframe de la pagina en version escritorio y mobile,2da fase desarrollo del codigo 3ra fase uso de SEO
+Ajolamiento en servidor free.
+Presupuesto final calculado en base a trabajo por cantidad de horas aproximadas(90hs) $250USD considero este valor ya que es un diseño sencilo.
